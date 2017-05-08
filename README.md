@@ -2,7 +2,7 @@
 
 Adaptive Granger Causality (AGC) analysis of binary neural spiking data
 
-This repository contains the MATLAB codes for the AGC analysis of the simulated set of spiking data, where the underlying time-varying causal interactions are detected from the spiking activties of ensemble of neurons. 
+This repository contains the MATLAB codes for the AGC analysis of the simulated set of spiking data, where the time-varying causal interactions among neurons are detected from the spiking activties of neuronal ensemble. 
 This code is composed of 4 main parts:  
 1) Spike train generation
 2) Adaptive estimation and computation stage
